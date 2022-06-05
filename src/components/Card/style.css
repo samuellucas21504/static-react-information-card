@@ -1,0 +1,8 @@
+.card--wrapper {
+    display:flex;
+    flex-flow: column;
+    max-width: 600px;
+    margin:  auto;
+    background: #1A1B21;
+    border-radius: 30px 30px 30px 30px;
+}
